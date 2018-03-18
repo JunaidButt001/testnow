@@ -1,0 +1,85 @@
+._navbar .navbar {
+    background-color: white;
+    height: 50px;
+}
+
+._navbar .navbar .nav a:hover {
+    background-color: #2B055C;
+    color: white !important;
+}
+
+._navbar .navbar .nav .dropdown-menu a:hover {
+    background-color: #5175E0;
+    color: white !important;
+}
+
+#inputSearch:hover {
+    background-color: #CACACC;
+    color: black;
+}
+
+#btn_contact {
+    background-color: white !important;
+    border: none;
+    text-decoration: none;
+    padding: 0px 0px 50px 0px;
+}
+
+#btn_about {
+    background-color: white !important;
+    border: none;
+    text-decoration: none;
+    padding: 0px 0px 50px 0px;
+}
+
+#inputMessage {
+    margin-bottom: 10px;
+}
+
+.modal .modal-footer {
+    margin-top: 25px;
+    background-color: #E9E4F0 !important;
+}
+
+.modal .btn_social {
+    text-align: center;
+}
+
+.modal .btn_social .btn {
+    padding: 10px 30px;
+}
+
+.modal .modal-footer .btn_social .btn:hover {
+    background-color: #2B055C;
+}
+
+.modal .modal-header .close {
+    color: white !important;
+    font-size: 1.5em;
+}
+
+.modal .modal-header h3 {
+    background-color: #2B055C;
+    color: white !important;
+    font-size: 2em;
+    font-family: 'Lobster', cursive;
+}
+
+.modal .modal-body img {
+    margin: 0px 10px;
+}
+
+.modal .modal-body .btn_icons {
+    text-align: center;
+    padding: 5px 50px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.modal .modal-body .btn_icons .btn:hover {
+    background-color: #2B055C;
+}
+
+.modal .modal-footer p {
+    text-align: center;
+}
